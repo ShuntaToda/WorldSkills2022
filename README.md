@@ -13,7 +13,7 @@
 以下のコマンドを使用すると、このリポジトリと全ての子リポジトリを一度にクローンできます：
 
 ```
-git clone --recursive https://github.com/ShuntaToda/wsc2022
+git clone --recursive https://github.com/ShuntaToda/WorldSkills2022
 ```
 
 ### 代替方法（親リポジトリのみを先にクローンした場合）
