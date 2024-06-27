@@ -1,0 +1,30 @@
+[submodule "frontend/wsc2022-frontend1"]
+	path = frontend/wsc2022-frontend1
+	url = https://github.com/ShuntaToda/wsc2022-frontend1.git
+[submodule "backend/wsc2022-backend1"]
+	path = backend/wsc2022-backend1
+	url = https://github.com/ShuntaToda/wsc2022-backend1.git
+[submodule "backend/wsc2022-backend2"]
+	path = backend/wsc2022-backend2
+	url = https://github.com/ShuntaToda/wsc2022-backend2.git
+[submodule "interactive/wsc2022-interactive"]
+	path = interactive/wsc2022-interactive
+	url = https://github.com/ShuntaToda/wsc2022-interactive.git
+[submodule "interactive/wsc2022-interactive1"]
+	path = interactive/wsc2022-interactive1
+	url = https://github.com/ShuntaToda/wsc2022-interactive1.git
+[submodule "interactive/wsc2022-interactive2"]
+	path = interactive/wsc2022-interactive2
+	url = https://github.com/ShuntaToda/wsc2022-interactive2.git
+[submodule "interactive/wsc2022-interactive3"]
+	path = interactive/wsc2022-interactive3
+	url = https://github.com/ShuntaToda/wsc2022-interactive3.git
+[submodule "marketing/wsc2022-marketing1"]
+	path = marketing/wsc2022-marketing1
+	url = https://github.com/ShuntaToda/wsc2022-marketing-page1.git
+[submodule "marketing/wsc2022-marketing2"]
+	path = marketing/wsc2022-marketing2
+	url = https://github.com/ShuntaToda/wsc2022-marketing2.git
+[submodule "speedtest/wsc2022-speedtest1"]
+	path = speedtest/wsc2022-speedtest1
+	url = https://github.com/ShuntaToda/wsc2022-speedtest1.git
